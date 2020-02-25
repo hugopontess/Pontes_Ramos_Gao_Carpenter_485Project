@@ -8,7 +8,7 @@
 
 
 ## Block Flow Diagram
-
+![BFD](BFD.pdf)
 
 
 
