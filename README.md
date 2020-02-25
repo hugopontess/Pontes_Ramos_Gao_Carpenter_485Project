@@ -8,8 +8,7 @@ The purpose of project 6 in Turton et. al is to design a cumene production facil
 
 
 ## Block Flow Diagram
-![BFD](BFD.jpg)
-
+![BFD](BFD2.JPG)
 
 
 
