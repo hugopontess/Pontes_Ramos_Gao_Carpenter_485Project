@@ -9,7 +9,12 @@ The purpose of project 6 in Turton et. al is to design a cumene production facil
 
 ## Block Flow Diagram
 ![BFD](BFD2.JPG)
-
+Assuming an overall conversion of 90% for the cumene, 3% for the p-diisopropyl benzene, stoichiometric feed, and a perfect separation process, the mass balance for the inputs and outputs will look like this: <br>
+mass flow rate of benzene into process - 72,210 metric tons/year <br>
+mass flow rate of propylene into process - 35,011 metric tons/year <br>
+mass flow rate of cumene out of process - 100,000 metric tons/year <br>
+mass flow rate of p-diisopropyl benzene out of process - 4500 metric tons/year <br>
+mass flow rate of fuel gas - 2721 metric tons/year <br>
 
 
 ## Reaction Kinetics Data <br>
