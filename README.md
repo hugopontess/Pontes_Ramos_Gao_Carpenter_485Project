@@ -8,7 +8,7 @@
 
 
 ## Block Flow Diagram
-![BFD](BFD.pdf)
+![BFD](https://github.com/hugopontess/Pontes_Ramos_Gao_Carpenter_485Project/blob/master/BFD.pdf)
 
 
 
