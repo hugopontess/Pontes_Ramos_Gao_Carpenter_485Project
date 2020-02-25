@@ -36,3 +36,10 @@ Benzene, propylene, propane, cumene, and P-diisopropyl benzene are the component
 
 
 ## Design Cost Estimate
+Price of benzene (textbook): $0.919/kg --> cost per year is 72,210 tons * $0.919/kg * 1000 kg/ton = $66.4 mil <br>
+Price of propylene (textbook): $1.444/kg --> cost per year is 35,011 tons * $1.444/kg * 1000 kg/ton = $50.6 mil <br>
+Price of cumene (online at https://www.intratec.us/chemical-markets/cumene-price): $1210/ton --> earnings per year are 100,000 tons * $1210/ton = $121 mil <br>
+p-diisopropylbenzene, treating as a fuel: heat of combustion = 6.82 GJ/kmol, MW = 162.3 kg/kmol, energy cost = $2.50/GJ --> earnings per year are 4500 tons * 1000 kg/ton * 1/162.3 kmol/kg * 6.82 GJ/kmol * $2.50/GJ = $0.5 mil <br>
+Fuel gas: Assuming fuel gas has similar heat of comubstion, and MW to p-diisopropylbenzene --> $0.3 mil <br>
+Total net chemical cost: 4.8 mil <br>
+The positive net chemical cost is positive, suggesting this plant may be feasible.
