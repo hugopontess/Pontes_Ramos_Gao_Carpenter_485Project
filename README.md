@@ -2,8 +2,8 @@
 
 
 
-## Abstract
-
+## Abstract <br>
+The purpose of project 6 in Turton et. al is to design a cumene production facility that produces 100,000 metric tons per year. In such, we are asked to design a grassroots cumene process using benzene and propylene. This will be done using a new catalyst, for which the reaction kinetics are included in this report. The deliverables for this project will be an optimized preliminary design of the plant and an economic evaluation of the process. The two inputs are benzene and propylene in order to produce cumene. However, there is a side reaction between propylene and cumene that produces p-diisopropyl benzene, and the remaining benzene, propylene, propane, and some cumene exit as fuel gas. The process incudes a catalytic reaction followed by a separator that purges propylene, benzene, and propane as fuel gas, while also recycles that stream into the feed preparation. There is also a cumene separator that gives the pure product, separating it from the side reaction product. <br>
 
 
 
