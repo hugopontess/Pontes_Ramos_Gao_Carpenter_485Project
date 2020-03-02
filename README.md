@@ -2,15 +2,19 @@
 
 
 
-## Abstract
-
+## Abstract <br>
+The purpose of project 6 in Turton et. al is to design a cumene production facility that produces 100,000 metric tons per year. In such, we are asked to design a grassroots cumene process using benzene and propylene. This will be done using a new catalyst, for which the reaction kinetics are included in this report. The deliverables for this project will be an optimized preliminary design of the plant and an economic evaluation of the process. The two inputs are benzene and propylene in order to produce cumene. However, there is a side reaction between propylene and cumene that produces p-diisopropyl benzene, and the remaining benzene, propylene, propane, and some cumene exit as fuel gas. The process incudes a catalytic reaction followed by a separator that purges propylene, benzene, and propane as fuel gas, while also recycles that stream into the feed preparation. There is also a cumene separator that gives the pure product, separating it from the side reaction product. <br>
 
 
 
 ## Block Flow Diagram
-
-
-
+![BFD](BFD2.JPG)
+Assuming an overall conversion of 90% for the cumene, 3% for the p-diisopropyl benzene, stoichiometric feed, and a perfect separation process, the mass balance for the inputs and outputs will look like this: <br>
+mass flow rate of benzene into process - 72,210 metric tons/year <br>
+mass flow rate of propylene into process - 35,011 metric tons/year <br>
+mass flow rate of cumene out of process - 100,000 metric tons/year <br>
+mass flow rate of p-diisopropyl benzene out of process - 4500 metric tons/year <br>
+mass flow rate of fuel gas - 2721 metric tons/year <br>
 
 
 ## Reaction Kinetics Data <br>
@@ -32,3 +36,10 @@ Benzene, propylene, propane, cumene, and P-diisopropyl benzene are the component
 
 
 ## Design Cost Estimate
+Price of benzene (textbook): $0.919/kg --> cost per year is 72,210 tons * $0.919/kg * 1000 kg/ton = $66.4 mil <br>
+Price of propylene (textbook): $1.444/kg --> cost per year is 35,011 tons * $1.444/kg * 1000 kg/ton = $50.6 mil <br>
+Price of cumene (online at https://www.intratec.us/chemical-markets/cumene-price): $1210/ton --> earnings per year are 100,000 tons * $1210/ton = $121 mil <br>
+p-diisopropylbenzene, treating as a fuel: heat of combustion = 6.82 GJ/kmol, MW = 162.3 kg/kmol, energy cost = $2.50/GJ --> earnings per year are 4500 tons * 1000 kg/ton * 1/162.3 kmol/kg * 6.82 GJ/kmol * $2.50/GJ = $0.5 mil <br>
+Fuel gas: Assuming fuel gas has similar heat of comubstion, and MW to p-diisopropylbenzene --> $0.3 mil <br>
+Total net chemical cost: 4.8 mil <br>
+The positive net chemical cost is positive, suggesting this plant may be feasible.
