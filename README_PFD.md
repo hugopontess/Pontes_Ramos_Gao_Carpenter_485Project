@@ -41,6 +41,7 @@ Tubes are carbon steel <br>
 P = 31.5 bar
 
 **Reactor** <br>
+R-801: <br>
 Carbon steel shell-and-tube packed bed, catalyst parameters are specified by Appendix C.6. <br>
 V = 6.5 m^3 <br>
 375 tubes, 7.62 cm ID, 6 m long <br>
@@ -48,15 +49,27 @@ P = 30.75 bar <br>
 T = 365 degree C <br>
 
 **Distillation Columns** <br>
+T-801: <br>
 Carbon steel <br>
 14 carbon steel trays with total condenser and reboiler <br>
 50% efficient trays <br>
 Feed on tray 7 <br>
 Reflux ratio = 0.44 <br>
 Tray spacing is 24 in <br>
-Column height = 8.69 <br>
-Diameter = <br>
-P = <br>
+Column height = 8.69 m<br>
+Diameter = 1.13 m <br>
+P = 1.75 bar <br>
+
+T-802: <br>
+Carbon steel <br>
+18 carbon steel trays with total condenser and reboiler <br>
+50% efficient trays <br>
+Feed on tray 9 <br>
+Reflux ratio = 0.63 <br>
+Tray spacing is 24 in <br>
+Column height = 11.13 m<br>
+Diameter = 1.26 m <br>
+P = 1.75 bar <br>
 
 **Vessels** <br>
 V-801: <br>
