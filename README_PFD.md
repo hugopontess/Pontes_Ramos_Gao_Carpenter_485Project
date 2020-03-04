@@ -46,9 +46,9 @@ Carbon steel <br>
 14 carbon steel trays with total condenser and reboiler <br>
 50% efficient trays <br>
 Feed on tray 7 <br>
-Reflux ratio =  <br>
-Tray spacing is <br>
-Column height = <br>
+Reflux ratio = 0.44 <br>
+Tray spacing is 24 in <br>
+Column height = 8.69 <br>
 Diameter = <br>
 P = <br>
 
