@@ -5,6 +5,11 @@
 
 ## Equipment Summary <br>
 **Heat Exchangers** <br>
+E-801: <br>
+1-2 Floating head stainless steel heat exchanger <br>
+A = m^2 <br>
+U = W/(m^2 C) <br>
+Q = 
 
 **Pumps** <br>
 P-801: <br>
