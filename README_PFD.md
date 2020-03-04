@@ -6,10 +6,40 @@
 ## Equipment Summary <br>
 **Heat Exchangers** <br>
 E-801: <br>
-1-2 Floating head stainless steel heat exchanger <br>
-A = m^2 <br>
-U = W/(m^2 C) <br>
-Q = 
+1-2 Floating head carbon steel heat exchanger, hps, 2 zones <br>
+A = 13.5 m^2 in desubcooling zone, 7.3 m^2 in vaporizing zone <br>
+U = 600 W/(m^2 C) in desubcooling zone, 1500 W/(m^2 C) in vaporizing zone <br>
+Q = 3.39e6 W <br>
+
+E-802:<br>
+1-2 Floating head carbon steel heat exchanger, cw <br>
+A = 533 m^2 <br>
+U = 850 W/(m^2 C) <br>
+Q = 5.31e6 W <br>
+
+E-803:<br>
+1-2 Floating head carbon steel heat exchanger, cw <br>
+A = 151 m^2 <br>
+U = 450 W/(m^2 C) <br>
+Q = -1.93e6 W <br>
+
+E-804:<br>
+1-2 Floating head carbon steel heat exchanger, mps <br>
+A = 405 m^2 <br>
+U = 750 W/(m^2 C) <br>
+Q = 2.36e6 W <br>
+
+E-805:<br>
+1-2 Floating head carbon steel heat exchanger, cw <br>
+A = 24 m^2 <br>
+U = 450 W/(m^2 C) <br>
+Q = -1.61e6 W <br>
+
+E-806:<br>
+1-2 Floating head carbon steel heat exchanger, hps <br>
+A = 64 m^2 <br>
+U = 750 W/(m^2 C) <br>
+Q = 1.61e6 W <br>
 
 **Pumps** <br>
 P-801: <br>
