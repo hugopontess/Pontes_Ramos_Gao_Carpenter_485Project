@@ -1,7 +1,7 @@
 # PFD
-![Aspen-Process](Aspen_Process.JPG) <br>
-![PFD-streamtable](PFD_Streamtable.JPG) <br>
-![Visio-PFD](https://github.com/hugopontess/Pontes_Ramos_Gao_Carpenter_485Project/blob/master/Visio%20PFD.PNG) <br>
+![Aspen-Process](https://github.com/hugopontess/Pontes_Ramos_Gao_Carpenter_485Project/blob/master/Screenshots/Aspen_Process.JPG) <br>
+![PFD-streamtable](https://github.com/hugopontess/Pontes_Ramos_Gao_Carpenter_485Project/blob/master/Screenshots/PFD_Streamtable.JPG) <br>
+![Visio-PFD](https://github.com/hugopontess/Pontes_Ramos_Gao_Carpenter_485Project/blob/master/Screenshots/Visio%20PFD.PNG) <br>
 
 ## Equipment Summary <br>
 **Heat Exchangers** <br>
